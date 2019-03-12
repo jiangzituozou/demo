@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>h5服务</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+
+
+</head>
+
+<body>
+<!--登陆页面-->
+<div data-role="page" id="pageLogin">
+    <div data-role="header">
+        <h1 role="heading">h5服务</h1>
+    </div>
+    <div data-role="main" class="ui-content">
+        <form id="login">
+            <div class="ui-field-contain">
+                <label for="telephone">手机号:</label>
+                <input type="text" name="telephone">
+                <br/>
+                <label for="password">密码:</label>
+                <input type="password" name="password">
+                <div style="margin-top: 20%;">
+                    <input type="button" value="登录" onclick="login()" />
+                    <a href="#pagetwo" data-role="button" data-transition="flip">注册</a>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div data-role="footer" style="text-align: center" data-position="fixed">
+        <p>Copyright © 2019 Zhaosun</p>
+    </div>
+</div>
+<!--注册页面-->
+<div data-role="page" id="pagetwo" data-theme="b">
+    <div data-role="header">
+        <h1>欢迎注册h5服务</h1>
+    </div>
+    <div data-role="main" class="ui-content">
+        <form id="register">
+            <div class="ui-field-contain">
+                <label for="telephone">手机号:</label>
+                <input type="text" name="telephone" id="u_name1">
+                <br/>
+                <label for="password">密码:</label>
+                <input type="password" name="password" id="u_password1">
+                <br/>
+                <label for="Repassword">重复密码:</label>
+                <input type="password" name="re_password" id="u_password2">
+                <div style="margin-top: 20%;">
+                    <input type="button" value="确定注册" onclick="register()" />
+                    <a href="#pageLogin" data-role="button" data-transition="flip" data-direction="reverse">返回</a>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div data-role="footer" style="text-align: center" data-position="fixed">
+        <p>Copyright © 2019 Zhaosun</p>
+    </div>
+</div>
+
+</body>
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<script type="text/javascript" src="/js/login/login.js" ></script>
+
+</html>
