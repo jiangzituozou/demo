@@ -1,0 +1,15 @@
+server:
+  port: 80
+#mybatis:
+#  configuration:
+#    map-underscore-to-camel-case: true
+#  mapper-locations: mybatis/**/*Mapper.xml
+#  typeAliasesPackage: com.bootdo.**.domain
+spring:
+  rabbitmq:
+    host: 119.29.54.82
+    port: 5672
+    username: root
+    password: 123456
+    publisher-confirms: true
+    virtual-host: /

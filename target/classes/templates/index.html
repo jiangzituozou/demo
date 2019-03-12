@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <script type="text/javascript" charset="utf-8" >
+        var send = function () {
+            alert("send");
+            var wsServer = 'ws://localhost:8091'; //服务器地址
+            var websocket = new WebSocket(wsServer,[$("#name").val()]); //创建WebSocket对象
+        };
+    </script>
+</head>
+<body>
+<label for="name">What’s your name:</label>
+<input type="text" id="name" name="name" />
+<button onclick="send()">Send</button>
+<div id="message" style="color:red"></div>
+<script src="/js/utils/jquery.min.js?v=2.1.4"></script>
+<script src="/js/utils/ajax-util.js"></script>
+</body>
+</html>
