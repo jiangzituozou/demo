@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e956b7eb-4a51-498d-869c-cc7aa109c3c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e956b7eb-4a51-498d-869c-cc7aa109c3c2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,8 +201,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaosun/demo/service/setviceImpl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="214">
+              <caret line="29" column="75" lean-forward="true" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -380,7 +378,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -728,7 +726,7 @@
       <workItem from="1552103108368" duration="8175000" />
       <workItem from="1552188800555" duration="2963000" />
       <workItem from="1552370803000" duration="34363000" />
-      <workItem from="1552442856310" duration="588000" />
+      <workItem from="1552442856310" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="删除页面">
       <created>1552372662124</created>
@@ -751,14 +749,22 @@
       <option name="project" value="LOCAL" />
       <updated>1552410772686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="注册登录">
+      <created>1552443497781</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552443497781</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104677000" />
+    <option name="totallyTimeSpent" value="105117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1076,8 +1082,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaosun/demo/service/setviceImpl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="214">
+          <caret line="29" column="75" lean-forward="true" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
