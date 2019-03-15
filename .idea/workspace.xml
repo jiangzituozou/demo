@@ -1,128 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e956b7eb-4a51-498d-869c-cc7aa109c3c2" name="Default Changelist" comment="注册登录">
-      <change afterPath="$PROJECT_DIR$/sql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/index/web_style_011.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1379993596140_493.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389318603322_247.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389318905748_832.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389319357801_971.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389319443784_494.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389320005193_102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389320543259_472.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389321770767_853.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389322168029_274.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389323479221_517.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389323739209_679.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389324180331_970.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389324627783_359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389325097923_306.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389325264417_236.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389325367629_806.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389325817478_241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/1389327067738_614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/41zvPwx9XcL._SL160_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/ZWM0LmltYWdlcy1hbWF6b24uY29t/images/I/41zvPwx9XcL._SL160_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2013-12/2013-12-09/1386576161170_302.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2013-12/2013-12-10/1386672838415_470.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2013-12/2013-12-19/1387444814640_226.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2013-12/2013-12-27/1388112688800_683.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2013-12/2013-12-31/1388461426085_929.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-07/1389066195417_968.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-07/1389075606344_165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-07/1389084270637_383.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-07/1389101587695_748.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-08/1389140587389_957.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-08/1389153050999_466.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-08/1389166732385_483.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-08/1389178077153_439.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-08/1389180060700_5F401.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-08/1389181745501_155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-09/1389231710778_501.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-09/1389234400248_925.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-09/1389235325334_425.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-09/1389238320749_728.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-09/1389269038015_981.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-09/1389269598247_892.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389318603322_247.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389318905748_832.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389319357801_971.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389319443784_494.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389320005193_102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389320543259_472.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389321770767_853.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389322168029_274.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389323479221_517.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389323739209_679.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389324180331_970.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389324627783_359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389325097923_306.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389325264417_236.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389325367629_806.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389325817478_241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389327067738_614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389332755720_5F259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389333391910_246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389335116294_444.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389341229220_793.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389344221694_731.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389345922263_793.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389346833993_311.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389346950368_227.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389349639061_976.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389350215762_581.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-10/1389358748261_692.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389408469113_477.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389409815250_5F401.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389410155428_412.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389410443520_648.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389419347707_462.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389423576351_124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389425029478_621.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389428338987_696.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/2014-01/2014-01-11/1389430355788_411.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-07/2013-07-22/1374492924102_475.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-07/2013-07-23/1374576614494_446.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-07/2013-07-23/1374580864131_495.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-07/2013-07-25/1374740925059_972.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-07/2013-07-31/1375227102004_507.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-06/1375718829164_454.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-09/1376018670832_987.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-09/1376022076674_907.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-16/1376648109654_101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-16/1376648253751_283.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-16/1376648386759_647.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-16/1376652292216_202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-08/2013-08-16/1376652972145_659.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-09/2013-09-24/1379993596140_493.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-09/2013-09-24/1380022513777_316.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-10/2013-10-09/1381322196663_247.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-10/2013-10-25/1382686023469_238.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-11/2013-11-04/1383550004647_650.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-11/2013-11-13/1384331780967_674.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-11/2013-11-19/1384856771944_784.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-11/2013-11-25/1385376176941_704.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/images/2013-11/2013-11-27/1385538316873_599.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/80-80-1/aW1nLnRhb2Jhbi5jb20=/upload/uid-6854/2014-01/u_6854_1389326429052_926.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/nav_icon01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/nav_icon02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/nav_icon03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/nav_icon04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/index/u_6854_1389326429052_926.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/index/zepto.min_012.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/utils/validate/easyform/easyform.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/utils/validate/easyform/easyform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/utils/validate/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+    <list default="true" id="e956b7eb-4a51-498d-869c-cc7aa109c3c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/RegisterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/index/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/index/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/rabbitMq/MsgReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/rabbitMq/MsgReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/login/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhaosun/demo/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhaosun/demo/controller/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhaosun/demo/controller/RegisterController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhaosun/demo/controller/index/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhaosun/demo/controller/index/IndexController.class" afterDir="false" />
@@ -272,7 +152,7 @@
           <entry key="java" value="905" />
           <entry key="js" value="371" />
           <entry key="sql" value="51" />
-          <entry key="txt" value="28" />
+          <entry key="txt" value="33" />
           <entry key="xml" value="42" />
           <entry key="yml" value="40" />
         </counts>
@@ -282,7 +162,7 @@
           <entry key="HTML" value="902" />
           <entry key="JAVA" value="905" />
           <entry key="JavaScript" value="371" />
-          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="PLAIN_TEXT" value="44" />
           <entry key="SQL" value="51" />
           <entry key="XML" value="42" />
           <entry key="YAML" value="40" />
@@ -862,7 +742,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552667756225" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552668375079" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -927,7 +807,7 @@
       <workItem from="1552188800555" duration="2963000" />
       <workItem from="1552370803000" duration="34363000" />
       <workItem from="1552442856310" duration="6277000" />
-      <workItem from="1552656161392" duration="10792000" />
+      <workItem from="1552656161392" duration="11052000" />
     </task>
     <task id="LOCAL-00001" summary="删除页面">
       <created>1552372662124</created>
@@ -957,11 +837,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552443497781</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="验证码">
+      <created>1552668386813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552668386813</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121158000" />
+    <option name="totallyTimeSpent" value="121418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1012,7 +899,8 @@
     <MESSAGE value="删除多余东西" />
     <MESSAGE value="注册" />
     <MESSAGE value="注册登录" />
-    <option name="LAST_COMMIT_MESSAGE" value="注册登录" />
+    <MESSAGE value="验证码" />
+    <option name="LAST_COMMIT_MESSAGE" value="验证码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaosun/demo/controller/SocketController.java" />
