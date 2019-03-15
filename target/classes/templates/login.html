@@ -6,8 +6,7 @@
     <title>h5服务</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
-
-
+    <link rel="stylesheet" href="/js/utils/validate/easyform/easyform.css">
 </head>
 
 <body>
@@ -17,7 +16,7 @@
         <h1 role="heading">h5服务</h1>
     </div>
     <div data-role="main" class="ui-content">
-        <form id="login">
+        <form id="login" flag="true">
             <div class="ui-field-contain">
                 <label for="telephone">手机号:</label>
                 <input type="text" name="telephone">
@@ -41,16 +40,24 @@
         <h1>欢迎注册h5服务</h1>
     </div>
     <div data-role="main" class="ui-content">
-        <form id="register">
+        <form id="register" flag="true">
             <div class="ui-field-contain">
                 <label for="telephone">手机号:</label>
-                <input type="text" name="telephone" id="u_name1">
+                <input type="text" name="telephone" id="reg_telephone" >
+                <button type="button" id="sendCheckNumber" style="width: 100%" onclick="sendCheckNumber()">免费获取验证码</button>
+                <br/>
+                <label for="checkNumber">验证码:</label>
+                <input type="text" name="checkNumber" id="checkNumber" data-easyform="length:2 16;"
+                       data-easytip="class:easy-blue;position:bottom;">
                 <br/>
                 <label for="password">密码:</label>
-                <input type="password" name="password" id="u_password1">
+                <input type="password" name="password" id="u_password1"  data-easyform="length:6 16;"
+                       data-message="密码必须为6—16位"
+                       data-easytip="class:easy-blue;">
                 <br/>
                 <label for="Repassword">重复密码:</label>
-                <input type="password" name="re_password" id="u_password2">
+                <input type="password" name="re_password" id="u_password2" data-easyform="length:6 16;equal:#u_password1;"
+                       data-message="两次密码输入要一致" data-easytip="class:easy-blue;">
                 <div style="margin-top: 20%;">
                     <input type="button" value="确定注册" onclick="register()" />
                     <a href="#pageLogin" data-role="button" data-transition="flip" data-direction="reverse">返回</a>
@@ -62,10 +69,30 @@
         <p>Copyright © 2019 Zhaosun</p>
     </div>
 </div>
-
+<script>
+    var wait=60;
+    function time() {
+        if (wait == 0) {
+            $("#sendCheckNumber").attr('disabled',false);
+            $("#sendCheckNumber").text("免费获取验证码");
+            wait = 60;
+        } else {
+            $("#sendCheckNumber").attr('disabled',true);
+            $("#sendCheckNumber").text(wait+"秒后可以重新发送");
+            wait--;
+            setTimeout(function() {
+                    time()
+                },
+                1000)
+        }
+    }
+    document.getElementById("sendCheckNumber").onclick=function(){
+        time();
+        sendCheckNumber()}
+</script>
 </body>
 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<script type="text/javascript" src="/js/utils/validate/easyform/easyform.js"></script>
 <script type="text/javascript" src="/js/login/login.js" ></script>
-
 </html>

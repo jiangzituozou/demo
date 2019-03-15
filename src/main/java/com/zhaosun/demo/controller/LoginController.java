@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class LoginController {
     @Autowired
     private UserService userService;
-    @PostMapping("/login")
+    @PostMapping("/userLogin")
     @ResponseBody
     public Boolean login(UserDo userDo){
         return userService.login(userDo);

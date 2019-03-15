@@ -1,0 +1,226 @@
+@charset "utf-8";
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,big,cite,code,del,em,font,img,ins,small,strong,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend{margin:0;padding:0;font-size:12px;font-family:新宋体, Arial, Helvetica, sans-serif;}
+ol,ul{list-style:none;}:focus{outline:0;}a img{border:0;}img{vertical-align:middle;}table{empty-cells:show;}ins{text-decoration:none;}del{text-decoration:line-through;}em{font-style:normal;}
+button::-moz-focus-inner,input[type="reset"]::-moz-focus-inner,input[type="button"]::-moz-focus-inner,input[type="submit"]::-moz-focus-inner,input[type="file"]>input[type="button"]::-moz-focus-inner{border:none;padding:0;}
+a{color:#28282b;text-decoration:none;}
+body{background:#f4f4f4;}
+.wrap{width:100%;overflow:hidden;}
+.wrap-menu{width:100%;overflow:hidden;}
+.tb-i-title{background:url(../../img5/web/tb_iphone_1.png);width:100%;height:52px;float:left;top:0;z-index:500;}
+.tb-i-title nav{background:url(../../img5/web/tb_iphone_2.png);width:29px;height:29px;position:absolute;left:8px;top:7px;}
+.tb-i-title h1{display:inline-block;margin:0 auto;float:left;line-height:45px;color:#fff;width:100%;font-size:18px;text-align:center;text-align:center;text-shadow:2px 2px 2px #8e090b;}
+.tb-i-title h1 i{font-size:12px;top:-2px;font-style:normal;height:8px;overflow:hidden;color:#fff;display:inline-block;line-height:1px;}
+.tb-i-title menu.iP-search{background:url(../../img5/web/tb_iphone_10.png);width:29px;height:29px;position:absolute;top:7px;right:8px;overflow:hidden;padding:0;margin:0;}
+.tb-i-conter{display:inline-block;width:100%;}
+.tb-i-listc{width:100%;border-bottom:1px solid #bfbfbf;box-shadow:0 1px 0 0 #fff;padding:10px 0 5px 0;overflow:hidden;}
+.tb-i-cimg img{-webkit-border-radius:5px;overflow:hidden;width:80px;height:80px;margin-left:10px;}
+.tb-i-cimg{float:left;-webkit-border-radius:5px;width:80px;height:80px;}
+.tb-i-listc h2{left:0;right:0;line-height:25px;overflow:hidden;font-size:16px;font-weight:normal;height:80px;overflow:hidden;left:100px;right:5px;position:absolute;font-family:新宋体;}
+.tb-i-listc h2 i{color:#d00d00;font-size:16px;font-family:新宋体;font-style:normal;}
+.tbi-drop-info{margin-top:3px;display:inline-block;width:100%;font-size:14px;}
+.tbi-drop-info span{float:left;line-height:30px;font-size:14px;color:#666;margin-left:10px;margin-right:10px;font-family:新宋体;color:#666666;}
+.tbi-drop-info span.tb-i-bg{background:#ecf1f4;}
+.tbi-drop-info span.tj-name{float:right;}
+.tbi-drop-info span.cum-n-w{background:url(../../img5/csp.png) no-repeat 0 -323px;text-indent:18px;font-size:14px;font-family:新宋体;}
+.tb-i-nav ul{width:640px;display:inline-block;margin-top:96px;background:url(../../img5/web/tb_iphone_6.png) no-repeat 10px 30px;}
+.tb-i-nav ul li{line-height:100px;background:url(../../img5/web/tb_iphone_5.png) no-repeat bottom;text-indent:80px;}
+.tb-i-nav ul li a{font-size:38px;text-shadow:0 1px 0 #fff;}
+.tb-i-nav-t{background:#c70000;height:88px;width:640px;position:fixed;}
+.tb-i-nav-t h1{color:#fff;float:left;line-height:88px;font-size:38px;text-shadow:2px 2px 2px #8e090b;text-indent:18px;}
+.tb-i-config{width:640px;}
+.tb-i-config ul{display:inline-block;margin-top:96px;}
+.tb-i-config li{background:#f7f7f7;line-height:86px;-webkit-border-radius:15px;width:616px;border:2px solid #ddd;margin:20px 10px; box-shadow:0 2px 0 #fff;display:inline-block;}
+.tb-i-config ul li a{font-size:35px;font-weight:bold;height:86px;line-height:86px;border-bottom:2px solid #ddd;width:616px;text-indent:15px;float:left;box-shadow:0 2px 0 #fff;}
+.tb-i-config ul li a:last-child{border:0;box-shadow:0 0 0;}
+.tb-i-config ul li i{background:url(../../img5/web/tb_iphone_7.png);width:17px;height:26px;float:right;margin-right:20px;margin-top:28px;}
+.tb-i-config ul li em{background:url(../../img5/web/tb_iphone_8.png);width:154px;height:54px;float:right;margin-right:20px;margin-top:16px;}
+.tb-i-config ul li em.zhe-on{background:url(../../img5/web/tb_iphone_9.png);width:154px;height:54px;float:right;margin-right:20px;margin-top:16px;}
+.tb-i-conter-img .tb-i-listc{width:42%;border:1px solid #ddd;background:#f9f9f9;float:left;margin-left:10px;overflow:hidden;padding:1%;height:auto;margin:10px 0% 0 4%;overflow:hidden;}
+.tb-i-conter-img .tb-i-cimg{width:100%;-webkit-border-radius:0;overflow:hidden;height:auto;}
+.tb-i-conter-img .tb-i-cimg img{-webkit-border-radius:0;width:100%;float:left;margin:0;height:auto;}
+.tb-i-conter-img .tb-i-listc h2{margin-left:0px;width:100%;line-height:20px;height:auto;height:40px;overflow:hidden;margin-top:8px;position:relative;left:0;font-size:12px;}
+.tb-i-conter-img .tb-i-listc h2 i{font-size:12px;}
+.tb-i-conter-img .tbi-drop-info{border-bottom:1px solid #ddd;border-bottom:1px solid #ddd;width:100%;}
+.tb-i-conter-img .tbi-drop-info span{line-height:30px;margin-right:0;color:#28282b;font-size:14px;margin-left:0;}
+.tb-i-conter-img .tbi-drop-info span b{font-size:12px;line-height:30px;color:#d00d00;}
+.tb-i-conter-img .tbi-drop-info span em{font-size:12px;}
+.tb-i-conter-img .tbi-drop-info span.iP-price{float:left;margin-right:5px;width:auto;color:#d00d00;}
+.tb-i-conter-img .tbi-drop-info span.iP-discount{float:left;padding-left:5px;height:30px;line-height:30px;font-size:12px;}
+.tb-i-conter-img .tbi-drop-info span.iP-past-P{float:right;color:#666;background:url(../../img5/csp.png) no-repeat 0 -323px;text-indent:18px;font-size:12px;font-family:新宋体;}
+.p-cat{position:absolute;width:100%;background:#f1f1f1;border-top:1px solid #ccc;-webkit-border-bottom-left-radius:5px;-webkit-border-bottom-right-radius:5px;-webkit-box-shadow:2px 2px 2px #666;z-index:600;padding:10px 0;display:none;left:0;top:230px;}
+.zhixiang{position:absolute;bottom:0;left:28px;font-size:18px;height:10px;overflow:hidden;line-height:20px;width:22px;color:#ccc;display:none;}
+.p-cat li{float:left;width:31%;line-height:35px;margin:0 1%;text-align:center;font-size:16px;font-family:新宋体;color:#000;}
+.p-cat li.this-c{background:#d00d00;color:#fff;text-align:center;-webkit-border-radius:5px;}
+.p-nav{position:fixed;left:50%;width:110px;margin-left:-58px;top:44px;background:#fff;border:3px solid #000;border-top:0;z-index:500;font-size:14px;font-family:新宋体;}
+.p-nav ul li a{font-size:14px;font-family:新宋体;line-height:35px;}
+.p-nav ul li{text-indent:1em;}
+.web-content{display:inline-block;width:100%;}
+.tb-i-nav-w .tb-i-title{background:url(../../img5/web/tb_iphone_11.png);height:45px;}
+.return-i{background:url(../../img5/web/tb_iphone_12.png) center no-repeat;width:45px;height:45px;float:left;}
+.wb-i-tit{width:96%;display:inline-block;padding:5px 2%;top:45px;z-index:5000;}
+.wb-i-tit h1{font-size:20px;font-family:新宋体;line-height:28px;margin:5px 0;}
+.wb-i-tit h1 a{font-size:20px;font-family:新宋体;}
+.wb-i-tit h1 i{color:#f00;font-style:normal;font-size:20px;font-family:新宋体;}
+.time-i-t{float:left;background:url(../../img5/web/tb_iphone_13.png) no-repeat left center;text-indent:25px;line-height:25x;font-size:16px;font-family:新宋体;color:#999;margin:5px 0;}
+.i-to-buy{background:#039ad2;color:#fff;line-height:30px;padding:0 8px;float:right;font-size:16px;font-family:新宋体;-webkit-border-radius:5px;}
+.cont-infi{width:96%;display:inline-block;padding:5px 2%;border-top:1px solid #C4C4C4;}
+.tj-usinfo .tj-d{float:right;line-height:30px;background:url(../../img5/web/tb_iphone_14.png) no-repeat 0 7px;text-indent:18px;font-size:14px;font-family:新宋体;color:#999;}
+.tj-usinfo .tj-c{float:right;line-height:30px;background:url(../../img5/web/tb_iphone_14.png) no-repeat 0 -57px;text-indent:18px;font-size:14px;font-family:新宋体;margin-left:15px;color:#999;}
+.tj-name-p{float:left;font-family:新宋体;font-size:14px;line-height:30px;}
+.tj-usinfo{display:inline-block;width:100%;color:#999;}
+.cont-infi .content p{font-size:16px;font-family:新宋体;text-indent:2em;width:100%;line-height:22px;}
+.cont-infi .content p img{max-width:100%;float:left;}
+.cont-infi .content p a{font-size:16px;color:#0f86c3;}
+.cont-infi .content p span{font-size:16px;}
+.cont-infi .content p b{font-size:16px;}
+.cont-infi p{line-height:26px;font-size:14px;text-indent:2em;}
+.tj-js-img {width:300px;height:180px;margin:15px auto 8px;}
+.tj-js-img img{max-width:100%;}
+.next-img{display:inline-block;width:100%;text-align:center;position:relative;margin-top:15px;}
+.next-img .lastImage{display:block;background:url(../../img5/web/tb_iphone_15.png);float:left;width:90px;height:40px;text-align:center;line-height:40px;font-size:18px;color:#666;}
+.next-img span{display:block;font-size:16px;line-height:40px;font-family:新宋体;position:absolute;left:50%;width:80px;text-align:center;margin-left:-40px;top:0;}
+.next-img .nextImage{display:block;background:url(../../img5/web/tb_iphone_15.png);float:right;width:90px;height:40px;text-align:center;line-height:40px;font-size:18px;color:#666;}
+.pingfen{margin-top:8px;width:190px;float:left;width:100%;}
+.pingfen .ding-pf{background:url(../../img5/web/tb_iphone_16.png) 0 5px no-repeat;margin-right:10px;margin-left:10px;line-height:40px;text-indent:35px;font-size:20px;float:left;height:40px;}
+.pingfen .cai-pf{background:url(../../img5/web/tb_iphone_16.png) no-repeat 0 -76px;margin-right:10px;line-height:40px;text-indent:35px;font-size:20px;float:left;height:40px;}
+.cum-title{font-size:14px;line-height:35px;background:#f1f1f1;border-top:1px solid #cdcdcd;border-bottom:1px solid #cdcdcd;display:inline-block;width:100%;height:37px;margin-bottom:10px;}
+.cum-title span{border-top:1px solid #fff;border-bottom:1px solid #fff;float:left;width:100%;text-indent:2%;font-size:14px;font-family:新宋体;}
+.cum-title span a{float:right;margin-right:2%;font-size:14px;font-family:新宋体;text-indent:0;}
+.cum-p-ty ul{width:96%;margin:0 2%;border-bottom:2px dashed #666;padding-bottom:15px;margin-bottom:15px;display:inline-block;}
+.cum-p-ty ul li{font-size:14px;line-height:22px;font-family:新宋体;float:left;}
+.cum-p-ty ul li.usname img{float:left;margin-top:7px;margin-right:5px;}
+.cum-p-mo ul li.usname{line-height:30px;color:#999;float:left;}
+.cum-p-ty ul li.ustime{line-height:30px;float:right;color:#999;}
+.cum-p-mo ul li.ustime a{margin-left:5px;color:#039AD2;font-size:14px;font-family:新宋体;}
+.cum-shu{float:right;line-height:45px;margin-right:10px;color:#FFF;}
+.cum-shu a{color:#fff;font-family:新宋体;font-size:16px;}
+.more-cum{width:100%;text-align:center;margin-bottom:5px;margin-top:-10px;}
+.more-cum a{line-height:35px;font-size:14px;color:#666;font-family:新宋体;}
+.cum-p-mo ul{width:94%;margin:0 2% 0 1.9%;border:1px solid #e1e1e1;-webkit-box-shadow:1px 1px 0 0 #fff;margin-top:10px;background:#fff;padding:1%;font-size:14px;font-family:新宋体;display:inline-block;-webkit-border-radius:3px;}
+.cum-p-mo ul li{font-size:14px;line-height:30px;font-family:新宋体;float:right;}
+.cum-p-mo ul li.us-nr{width:100%;}
+.cum-p-mo ul li.usname img{float:left;margin-top:7px;margin-right:5px;}
+.cum-p-mo ul li.ustime{line-height:30px;float:left;color:#999;float:right;}
+.cum-p-mo ul li.delete{float:right;}
+.cum-p-mo ul ul{width:98%;margin:8px 0 0 0;background:#eefaff;}
+.usname i{margin-left:10px;background:#f1f1f1;float:right;-webkit-border-radius:5px;line-height:26px;padding:0 5px;font-style:normal;margin-top:3px;font-size:12px;font-family:新宋体;}
+.us-img{width:100px;height:100px;float:left;-webkit-border-radius:5px;border:1px solid #ccc;padding:1px;background:#fff;margin:15px;}
+.us-img img{width:100px;height:100px;float:left;-webkit-border-radius:5px;}
+.us-info-xx{float:left;margin-top:15px;}
+.us-info-xx ul li{font-size:18px;line-height:30px;font-family:Arial, Helvetica, sans-serif;}
+.tb-qiandao{width:100%;float:left;overflow:hidden;bottom:0;}
+.qd-buttom{background:url(../../img5/web/tb_iphone_17.png);width:230px;height:55px;margin:0 auto;display:block;}
+.qd-buttom-ok{background:url(../../img5/web/tb_iphone_17.png) 0px -105px no-repeat;width:230px;height:55px;margin:0 auto;display:block;}
+.tb-qiandao{padding:15px 0;border-top:1px #ccc solid;}
+.tb-tixing{background:#f9f9f9;width:96%;margin:15px auto;border:1px solid #fff;-webkit-box-shadow:0px 0px 1px 1px #ccc;line-height:40px;font-size:12px;text-indent:10px;-webkit-border-radius:5px;}
+.qd-paihang{margin-top:0;text-indent:15px;}
+.qd-paihang ul{display:inline-block;width:96%;margin:0 2%;}
+.qd-paihang ul li i{font-family:宋体;float:left;width:18px;height:18px;line-height:18px;background:#999;overflow:hidden;color:#fff;text-align:center;font-family:"Times New Roman", Times, serif;-webkit-border-radius:2px;margin-right:5px;margin-top:8px;font-style:normal;text-indent:0;font-size:14px;}
+.qd-paihang ul li i.bg-red{background:#E7292C;}
+.qd-paihang ul li{width:100%;float:left;border-bottom:1px solid #e1e1e1;padding-bottom:8px;margin-bottom:8px;}
+.qd-paihang ul li span{line-height:30px;float:left;color:#282828;font-size:18px;}
+.qd-paihang ul li span img{width:30px;height:30px;float:left;margin-right:5px;padding:1px;border:1px solid #f1f1f1;overflow:hidden;}
+.qd-paihang ul li em{float:right;line-height:30px;color:#999;font-size:16px;}
+.qd-paihang h3{width:96%;overflow:hidden;margin-left:-1%;line-height:45px;font-size:16px;font-family:宋体;border-bottom:1px solid #e1e1e1;margin-bottom:5px;text-indent:0;display:inline-block;}
+.qd-paihang ul li span i{width:100px;float:left;overflow:hidden;height:30px;background:none;line-height:30px;font-family:宋体;font-size:16px;text-align:left;color:#282828;margin:0;}
+.fabu-pl{width:96%;margin:0 auto;}
+.fabu-pl textarea{width:100%;height:80px;-webkit-border-radius:5px;border:1px solid #e1e1e1;padding:0;margin:0;line-height:25px;font-size:14px;}
+.fabu-pl .error{font-size:16px;line-height:30px;color:#e7292c;display:none;}
+.us-login{line-height:40px;font-size:16px;}
+.us-login a{font-size:16px;color:#039ad2;}
+.tb-biaoq-fb{width:100%;margin:10px 0 0 0;display:inline-block;}
+.biaoqing{float:left;position:relative;line-height:30px;font-size:16px;}
+.fabubut{width:90px;height:30px;float:right;}
+.fabubut{width:90px;height:30px;background:#039ad2;-webkit-border-radius:5px;color:#fff;text-align:center;line-height:30px;font-size:16px;display:block;}
+.login-id{width:100%;}
+.login-id .shuru input{position:absolute;left:15px;right:15px;height:40px;font-size:16px;-webkit-border-radius:5px;border:1px solid #e1e1e1;padding:0 10px;outline:0;}
+.login-id .shuru .password{top:60px;}
+.login-id .shuru{position:relative;width:100%;height:103px;}
+.login-id .tishi{line-height:40px;font-size:16px;font-weight:bold;color:#999;margin-left:18px;}
+.jsps{display:inline-block;font-size:18px;margin-left:15px;margin-top:20px;position:relative;}
+.jsps input{vertical-align:middle;margin-top:-2px;}
+.jsps label{font-size:16px;}
+.zc-but{background:url(../../img5/web/tb_iphone_19.png) left bottom;width:149px;height:54px;border:0;margin:0 3px;}
+.dl-but{background-color:#039ad2;height:40px;line-height:40px;border:0;font-size:16px;color:#fff;-webkit-border-radius:5px;position:absolute;left:17px;right:17px;text-align:center;}
+.lo-but{margin-top:20px;position:relative;height:40px;}
+.s-title{text-align:center;line-height:30px;font-size:16px;margin-bottom:5px;margin-top:5px;}
+.log-img{width:320px;background:url(../../img5/web/tb_iphone_20.png) no-repeat center top;height:140px;width:320px;margin:0 auto;}
+.log-img a{float:left;padding-top:115px;font-size:16px;text-align:center;}
+.log-img a.qq-dlzc{width:85px;float:left;}
+.log-img a.sina-dlzc{width:82px;margin-left:28px;text-align:center;}
+.log-img a.renren-dlzc{width:105px;float:right;}
+.m-logo{height:40px;float:left;margin-bottom:10px;width:300px;}
+.m-logo img{float:left;width:208px;height:40px;}
+.qiandao{width:60px;height:30px;-webkit-border-radius:5px;float:right;background:#e7292c;line-height:30px;text-align:center;color:#fff;margin-top:5px;font-size:14px;}
+.m-header{padding:10px;width:300px;margin:0 auto;}
+.m-search{width:300px;position:relative;display:inline-block;margin:8px 0;}
+.m-search input.input-tian{width:240px;height:35px;line-height:normal;-webkit-border-radius:3px;border:1px solid #ccc;font-size:14px;padding:0 10px;outline:0;border-radius: 0;}
+.m-search input.input-but{background:url(../../img5/web/tb_iphone_21.png);width:35px;height:35px;position:absolute;right:0;top:1px;border:0;}
+.m-nav{width:300px;display:inline-block;margin-top:10px;position:relative;}
+.m-nav a{float:left;width:75px;text-align:center;font-size:14px;width:75px;height:70px;}
+.m-nav a i{float:left;width:75px;line-height:30px;text-align:center;font-style:normal;}
+.m-nav a img{width:40px;height:40px;}
+.content-tab{height:40px;width:100%;background:#DBDBDB}
+.content-tab a{width:40%;margin:2px 5px 0 5%;text-align:center;color:#1682bf;line-height:38px;height:38px;float:left;font-size:14px;}
+.content-tab a.this-t{background:#f4f4f4;-webkit-border-top-right-radius:5px;-webkit-border-top-left-radius:5px;color:#28282b;font-weight:bolder;}
+.weibo-qq{background:url(../../img5/web/tb_iphone_23.png) no-repeat -500px -47px;height:20px;width:20px;float:right;margin-top:13px;margin-left:20px;}
+.qzone{background:url(../../img5/web/tb_iphone_23.png) no-repeat -500px -504px;height:20px;width:20px;float:right;margin-top:13px;margin-left:20px;}
+.weibo-sina{background:url(../../img5/web/tb_iphone_23.png) no-repeat -502px -577px;height:20px;width:22px;float:right;margin-top:13px;margin-left:20px;}
+.sel-1{background:url(../../img5/web/tb_iphone_23.png) no-repeat -502px -648px;height:20px;width:22px;float:right;margin-top:13px;margin-left:20px;}
+.sel-2{background:url(../../img5/web/tb_iphone_23.png) no-repeat -500px -404px;height:20px;width:20px;float:right;margin-top:13px;margin-left:20px;}
+.sel-3{background:url(../../img5/web/tb_iphone_23.png) no-repeat -500px -454px;height:20px;width:20px;float:right;margin-top:13px;margin-left:20px;}
+.top-tit{width:50%;margin:0 auto;line-height:45px;font-size:16px;font-weight:bold;color:#fff;text-align:center;}
+.gong-pige{width:260px;margin:15px auto 0 auto;height:40px;}
+.gong-pige a{text-align:center;line-height:40px;font-size:16px;float:left;}
+.gong-pige span{float:left;line-height:40px;width:76px;text-align:center;}
+.t-previous{width:90px;height:40px;display:block;border: 1px solid #cccccc;-webkit-border-radius: 5px;}
+.t-next{width:90px;height:40px;display:block;border: 1px solid #cccccc;-webkit-border-radius: 5px;}
+.user-tjly{background:#f9f9f9;border:1px solid #ccc;font-size:14px;display:inline-block;-webkit-border-radius:5px;width:100%;padding:8px 0;margin-top:15px;margin-bottom:15px;}
+.user-tjly span{line-height:30px;float:left;margin-left:8px;}
+.user-tjly i{line-height:30px;float:right;font-style:normal;margin-right:8px;}
+.user-tjly p{width:96%;text-indent:2em;display:inline-block;line-height:22px;padding:0 2%;}
+.user-tjly p a{color:#148EC2;font-size:14px;}
+.user-tjly p img{max-width:100%;float:left;}
+.comment .yinyong{display:none;margin-bottom:5px;border: 1px solid #cdcdcd;color:#666;padding:5px;font-size:12px;font-family:宋体;background:#E1E1E1;}
+.comment .yinyong a{color: #d00d00;border: #d00d00 1px solid;padding: 2px 5px;margin-right: 5px;}
+.comment .yinyong .col-0070aa{color:#0070aa;}
+.loading{width: 100%;height: 70px;line-height: 70px;background: url("../../images/wap/loading_circle.gif") no-repeat center;display:none;}
+.m-footer{height:40px;background:#DBDBDB;line-height:40px;width:95%;padding:0 2.5%;font-size:16px;text-align:center;}
+.m-footer2{display:inline-block;height:40px;background:#DBDBDB;line-height:40px;width:95%;padding:0 2.5%;font-size:16px;margin-top:15px;text-align:center;}
+.m-footer a{font-size:16px;}
+.m-footer2 a{font-size:16px;}
+.m-footer2 a.m-home{float:left;}
+.cum-p-mo .sl_wb{float:left;background: url("../../images/uesr/pood.png") -4px -40px;line-height:30px;width:16px;height:16px;margin-left:10px;margin-top:7px;}
+.cum-p-mo .tx_wb{float:left;background: url("../../images/uesr/pood.png") -4px -160px;line-height:30px;width:16px;height:16px;margin-left:10px;margin-top:7px;}
+.cum-p-mo .tx_qzone{float:left;background: url("../../images/uesr/pood.png") -4px 0px;line-height:30px;width:16px;height:16px;margin-left:10px;margin-top:7px;}
+.m-footer{display:inline-block;height:40px;background:#DBDBDB;line-height:40px;width:95%;padding:0 2.5%;font-size:16px;margin-top:15px;}
+.m-footer a{float:right;font-size:16px;color:#666;}
+.m-footer a.m-home{float:left;margin-right:20px;color:#28282b;}
+.web-nav{background:#34383f;height:36px;line-height:36px;border-bottom:2px solid #e7292c;-webkit-box-shadow:1px 1px 1px #fff;width:100%;}
+.web-nav a{color:#eee;font-size:14px;margin:0 8px;}
+.web-nav span{float:right;}
+.web-nav a.color-bl{color:#4fb6f8;}
+.fenxiang{width:100%;display:inline-block;margin:15px 0;}
+.fenxiang .fuc{display: inline-block;background:#fff;line-height:40px;padding:0 20px;-webkit-tap-highlight-color: none;border: 1px solid #EDEDED;position: relative;border-radius: 3px;font-weight:normal;font-size:14px;font-family:宋体;float:left;margin-right:10px;}
+.fenxiang .fuc i{position:absolute;right:-6px;font-size:16px;color:#fff;font-family:Arial, Helvetica, sans-serif; font-style:normal;}
+.fenxiang .fuc b{font-weight:normal;font-size:14px;font-family:宋体;}
+.fenxiang img{width:42px;float:left;margin-right:10px;}
+.fuli-js{width:100%;float:left;}
+.fx-tixing{ background:rgba(0,0,0,0.6);width:100%;position:fixed;top:0;bottom:0;z-index:8000;display:none;}
+.fx-chenggong{width:260px;background:#fff;-webkit-border-radius:5px;position:absolute;left:50%;margin-left:-142px;top:150px;padding:10px;display:inline-block;border:2px solid #000;}
+.fx-chenggong h3{background:url(../../img5/web/fx_01.gif) no-repeat left center;height:36px;line-height:36px;font-size:26px;font-family:微软雅黑;color:#333;text-indent:40px;margin:20px 0 10px 55px;font-weight:normal;}
+.fx-chenggong a.guanbi{font-size:14px;float:left;margin-bottom:10px;margin-top:10px;margin-left: 100px;border: 1px solid #bfbfbf;padding: 5px 10px;}
+.fx-chenggong span{width:100%;height:30px;line-height:30px;text-align:center;float:left;font-size:14px;}
+.fx-chenggong a{color:#595772;font-size:14px;}
+.fx-shibai h3{background:url(../../img5/web/fx_02.gif) no-repeat left center;}
+
+/**404**/
+.s-404{margin:0 auto;margin-top:20px;width:300px;}
+.s-4{line-height:30px;}
+.fankui{background:url(../../images/fankui.jpg) no-repeat 20px 30px;padding-bottom:30px;}
+.tb-about{width:950px;margin-left:20px;display:inline-block;}
+.tb-about li{float:left;width:950px;line-height:22px;}
+.tb-about li b{margin-top:15px;float:left;margin-bottom:5px;font-size:14px;color:#d00d00;}
+.tb-about li p{padding-left:18px;}
+.tb-ab-jj{margin-top:10px;text-indent:2em;font-size:12px;}
+.rap-app .cont-infi p{text-indent:0;}

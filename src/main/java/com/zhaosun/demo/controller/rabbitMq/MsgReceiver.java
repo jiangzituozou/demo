@@ -9,9 +9,6 @@ import java.util.Map;
 @Component
 @RabbitListener(queues = "msg")
 public class MsgReceiver {
-
-
-
     @RabbitHandler
     public void process(String msg) {
        System.out.println(msg);
